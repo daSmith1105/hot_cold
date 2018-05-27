@@ -1,0 +1,23 @@
+button {
+  background-color: orange;
+  border-radius: .2em;
+}
+
+.help-btn {
+  float: left;
+  margin-left: 15%;
+  padding: 1em;
+  border: none;
+}
+
+.new-game {
+  float: right;
+  margin-right: 15%;
+  padding: 1em;
+  border: none;
+}
+
+.help-btn:hover, .new-game:hover {
+  box-shadow: 2px 2px 2px rgba(0,0,0,0.6);
+  cursor: pointer;
+}

@@ -1,0 +1,25 @@
+.modal {
+  margin-right: auto;
+  margin-left: auto;
+  width: 70vw;
+  text-align: center;
+  background-color: white;
+  border-radius: .5em;
+  padding: 1em;
+  margin-top: 2em;
+}
+
+.message {
+  margin-top: 5em;
+}
+
+p {
+  font-size: 180%;
+}
+
+.close-modal {
+  margin-top: 3em;
+  padding: 1em;
+  border: none;
+  margin-bottom: 8em;
+}

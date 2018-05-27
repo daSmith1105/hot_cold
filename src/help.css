@@ -1,0 +1,40 @@
+.container {
+  margin-right: auto;
+  margin-left: auto;
+  width: 70vw;
+  text-align: center;
+  background-color: white;
+  border-radius: .5em;
+  padding: 1em;
+  margin-top: 2em;
+}
+
+.description {
+  font-size: 120%
+}
+ol {
+  margin-top: 1em;
+}
+
+ol>li {
+  margin-top: 1em;
+  text-align: left;
+}
+
+.ready {
+  font-size: 140%;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+.return {
+  padding: 1em;
+  border: none;
+  font-size: 120;
+  margin-bottom: 6em;
+}
+
+.return:hover {
+  box-shadow: 2px 2px 2px rgba(0,0,0,0.6);
+  cursor: pointer;
+}
